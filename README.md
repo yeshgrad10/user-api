@@ -11,3 +11,5 @@ This is a simple Node.js + Express API that connects to a MongoDB database and r
    PORT=3000
 4. Run the server:
    node index.js
+Output:
+![image](https://github.com/user-attachments/assets/4cb25363-7fb8-4e75-af4e-5932bfe460f8)
